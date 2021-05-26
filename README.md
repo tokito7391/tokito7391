@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @tokito7391
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+a stupid failure
 
 <!---
 tokito7391/tokito7391 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
